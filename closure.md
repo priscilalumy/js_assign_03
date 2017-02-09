@@ -2,6 +2,7 @@ Closure
 
 A closure is a function inside another function that can access the variables and parameters from the parent function, even if it is already closed.
 
+
 This is an example of this definition:  
 
 function sumOne () {
