@@ -1,6 +1,7 @@
 Closure
 
-A closure is a function inside another function that can access the variables and parameters from the parent function, even if it is already closed.
+A closure is a function inside another function that can access the variables and parameters from the parent function,
+even if it is already closed.
 
 This is an example of this definition:  
 
@@ -25,7 +26,9 @@ This function sumOne will run only once. It will set the variable sum to 0 (zero
 
 That inner function will add a value to the parameter counter.
 
-When the variable num is called and runs the function, the variable sum will keep the value after the function is closed. So when the variable num is called and runs the function again, that specific instance of counter parameter will be used to run the function.
+When the variable num is called and runs the function, the variable sum will keep the value after the function is closed.
+So when the variable num is called and runs the function again, that specific instance of counter parameter will be used
+to run the function.
 
 
 
