@@ -33,12 +33,9 @@ References:
 
 Eloquent Javascript
 http://eloquentjavascript.net/03_functions.html
-
 MDN – Mozilla Developer Network
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
-
 W3schools
 http://www.w3schools.com/js/js_function_closures.asp
-
 Javascript. Is Sexy
 http://javascriptissexy.com/understand-javascript-closures-with-ease/
